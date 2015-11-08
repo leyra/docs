@@ -1,0 +1,10 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Lerya Documentation"
+
+[Params]
+subtitle = "Documentation for Leyra"
+github = "https://github.com/leyra"
+# profile = "/images/profile.png"
+copyright = "Leyra 2015"
+# analytics = "UA-XXXXXXXX-X"
